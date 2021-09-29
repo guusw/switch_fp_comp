@@ -1,5 +1,5 @@
-#include "Catch2/catch_test_macros.hpp"
-#include "Catch2/benchmark/catch_benchmark_all.hpp"
+#include "catch2/catch_test_macros.hpp"
+#include "catch2/benchmark/catch_benchmark_all.hpp"
 
 #define TEST_NAME "Random indirect call (32 instruction types)"
 #define OPERATIONS_H "Operations_32.h"
